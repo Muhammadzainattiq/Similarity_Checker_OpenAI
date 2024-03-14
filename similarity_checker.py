@@ -5,7 +5,7 @@ openai.api_key = st.secrets("OPENAI_API_KEY")
 
 
 title_style = """
-    color: #008080; /* Dark cyan color */
+    color: #8B13CC; /* Dark cyan color */
     font-size: 36px;
     font-weight: bold;
     text-align: center;
